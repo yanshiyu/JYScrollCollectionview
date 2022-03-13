@@ -13,7 +13,8 @@ pageControl是滑动一整页，该app每次滑动一个cell的宽度
 如果这个代码帮到你的话，欢迎Star，谢谢
 
 
-============== 分割线 ==============
+============== ysy分割线 ==============
+
 这个是实现了分页的效果，但是滚动效果上不是很流畅，能够感觉到明显的卡顿
 
 还有就是 - (void)scrollViewHandleScrollWithScrollView:(UIScrollView *)scrollView 这个方法是因为 scrollViewDidEndDragging 和 scrollViewWillBeginDecelerating 执行两次
